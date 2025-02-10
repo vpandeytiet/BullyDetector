@@ -1,5 +1,4 @@
 # BullyDetector
-
 ---
 
 # **🚀 AI-Powered Toxic Comment Classifier**  
