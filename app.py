@@ -27,9 +27,9 @@ conn = sqlite3.connect("toxic_comments.db")
 cursor = conn.cursor()
 
 # Example Query: Fetch data
-cursor.execute("SELECT * FROM comments LIMIT 5")
-data = cursor.fetchall()
-st.write("Sample Data:", data)
+#cursor.execute("SELECT * FROM comments LIMIT 5")
+#data = cursor.fetchall()
+#st.write("Sample Data:", data)
 
 # Code for getting 2 datasets train.csv and test.csv from releases
 
@@ -62,8 +62,8 @@ train_df = pd.read_csv("train.csv")
 test_df = pd.read_csv("test.csv")
 
 # Display Sample Data
-st.write("Sample Train Data:", train_df.head())
-st.write("Sample Test Data:", test_df.head())
+#st.write("Sample Train Data:", train_df.head())
+#st.write("Sample Test Data:", test_df.head())
 
 
 
