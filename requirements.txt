@@ -1,8 +1,8 @@
-import pandas as pd
-import numpy as np
-import sqlite3
-from sklearn.linear_model import LogisticRegression
-from sklearn.feature_extraction.text import TfidfVectorizer
-import pickle
-from pyngrok import ngrok
-import streamlit as st
+pandas as pd
+numpy as np
+sqlite3
+sklearn.linear_model import LogisticRegression
+sklearn.feature_extraction.text import TfidfVectorizer
+pickle
+pyngrok import ngrok
+streamlit as st
