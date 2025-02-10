@@ -42,4 +42,4 @@ streamlit run app.py
 ---
 
 ## **🚀 Live Demo**  
-🔗 **[Live App URL](#)** _((https://bullydetector-5panrtybql4bkxuz8ijxdj.streamlit.app/))_
+🔗 **[(https://bullydetector-5panrtybql4bkxuz8ijxdj.streamlit.app/)](#)**
