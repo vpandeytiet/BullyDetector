@@ -4,4 +4,4 @@ numpy
 scikit-learn
 sqlite3  # (sqlite3 is built-in, but some environments need explicit mention)
 pyngrok
-pickle-mixin  # Needed for handling pickle files
+pickle-mixin 
