@@ -8,8 +8,6 @@ An **AI-driven application** that detects and categorizes **toxic comments** usi
 
 ---
 
----
-
 ## **📥 Setup Instructions**  
 
 ### **1️⃣ Clone the Repository**  
@@ -42,7 +40,6 @@ streamlit run app.py
   - Model files (`.pkl`), database (`.db`), and datasets (`.csv`) are stored on **GitHub Releases** for efficient access.  
   - The app dynamically fetches them when deployed.  
 
----
 ---
 
 ## **🚀 Live Demo**  
